@@ -1,0 +1,34 @@
+.container {
+  height: fit-content;
+  width: 50%;
+  border-radius: 5px;
+  background-color: #478ac9;
+  padding: 10px;
+  color: white;
+}
+
+.inpcontainer {
+  margin: 10px;
+}
+
+input {
+  font-size: 18px;
+  outline: none;
+  width: 100%;
+  border-radius: 5px;
+  height: 30px;
+  padding: 10px;
+  border: none;
+}
+
+.btn {
+  margin: 10px;
+  width: 100px;
+  border: none;
+  outline: none;
+  color: white;
+  height: 35px;
+  border-radius: 5px;
+  background-color: #328000;
+  cursor: pointer;
+}

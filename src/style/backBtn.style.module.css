@@ -1,0 +1,19 @@
+.continer{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.backIcon{
+    height: 70px;
+    width: 100px;
+    cursor: pointer;
+}

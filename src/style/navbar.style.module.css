@@ -1,0 +1,53 @@
+.navContainer {
+  position: relative;
+  height: 75px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 5px;
+  background-color: black;
+}
+
+.navNameContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid red;
+}
+
+.firstHalfName {
+  background-color: red;
+  color: black;
+}
+
+.secondHalfName {
+  background-color: black;
+  color: red;
+}
+
+.btnContainer {
+    height: 33px;
+    width: 100%;
+    padding-right: 10px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .btn {
+    outline: none;
+    cursor: pointer;
+    width: 100px;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
+  
